@@ -1,0 +1,27 @@
+html {
+    background: #444444;
+}
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 30px;
+    padding: 40px;
+    color: black;
+    border-top: 10px solid black;
+    background: #fff;
+}
+h1{
+    font-size: 3em;
+    margin: 0;
+    color: rgb(223, 223, 223);
+    text-shadow: 1px 2px 2px darkgray;
+}
+
+p{
+    line-height: 1.5em;
+}
+
+header {
+    position: sticky;
+    background: rgb(107, 110, 112);
+    top: 0px;
+}
